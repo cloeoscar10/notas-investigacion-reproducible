@@ -18,7 +18,7 @@ Con el fin de resolver esta problemática, diferentes organizaciones, como el Co
 
 <img src="Grafico.png" alt="Grafico" style="width:600px;height:200px;">
  
-<font size="-2">This is smaller text.</font> Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
+<font size="-2">Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).</font>
 
 ## Bibliografía  
 
